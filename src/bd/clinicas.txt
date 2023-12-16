@@ -1,0 +1,8 @@
+CU,Cuauhtémoc
+TA,Tasqueña
+TI,Ticomán
+ZA,Zaragoza
+SU,Salauno
+TH,Theraclinic
+OL,Olab
+AZ,Azura
